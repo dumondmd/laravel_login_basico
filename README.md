@@ -13,5 +13,5 @@ Se você utilizar a versão 6.0 ou superior, no vídeo a seguir, o seguinte coma
 Deve ser substituido por esses 2 comandos:
 
     
-    *composer require laravel/ui*
-    *php artisan ui:auth*
+*composer require laravel/ui*
+*php artisan ui:auth*
