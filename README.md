@@ -14,4 +14,5 @@ Deve ser substituido por esses 2 comandos:
 
     
 *composer require laravel/ui*
+
 *php artisan ui:auth*
